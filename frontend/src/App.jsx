@@ -20,7 +20,7 @@ import SaleProduct from "./components/SaleProduct";
 import SaleHistory from "./components/SaleHistory";
 import ShopsRegister from "./components/ShopsRegister";
 //import ShopsLogin from "./components/ShopsLogin";
-import Admin from "./components/Admin";
+import Admin from "./components/admin";
 import NotFound from "./components/NotFound"; // Create this component
 import MasterWelcome from "./components/MasterWelcome";
 import ShopsLogin from "./components/ShopsLogin"; 
